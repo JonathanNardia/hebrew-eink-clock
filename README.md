@@ -2,6 +2,8 @@
 
 שעון שמציג את השעה **במילים, בעברית ובניקוד מלא** על מסך דיו (e-paper) של LILYGO.
 
+<p align="center"><img src="docs/clock_photo.jpg" width="640" alt="השעון על השולחן: אַחַת עֶשְׂרֵה וַחֲמִשִּׁים וָשֵׁשׁ"></p>
+
 <p align="center"><img src="docs/preview_sheet.png" width="720" alt="דוגמאות תצוגה"></p>
 
 - 21:21 ← **תֵּשַׁע / וְעֶשְׂרִים וְאַחַת**
