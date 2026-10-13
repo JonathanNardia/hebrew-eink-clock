@@ -1,0 +1,12 @@
+# Whitelist: only the project itself is tracked.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/HebrewClock/
+!/tools/
+!/docs/
+
+# Never commit Wi-Fi credentials.
+HebrewClock/secrets.h
+__pycache__/
